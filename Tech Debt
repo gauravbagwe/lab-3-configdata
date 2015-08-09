@@ -1,0 +1,10 @@
+Tech Debt: 
+Remove the Assumption Method for getLatestVisitSpecific
+Handle Multi-facility and Multi-Tenancy for ADT
+Patient Search 
+Possible Hybrid DB solution with ElasticSearch  
+Location Service 
+HMS - Source to Alt-ID policy (For tying sources to visits)
+HMS - No SQL Backend
+HMS Events for new readings created (Possible security concerns).
+Change Requests from Brent 
