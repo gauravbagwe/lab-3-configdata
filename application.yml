@@ -37,4 +37,4 @@ spring:
   profiles: noun
   application:
     name: noun
-words: boat,book,vote,seat,backpack,partition,groundhog
+words: boat,book,blizzard,bath
